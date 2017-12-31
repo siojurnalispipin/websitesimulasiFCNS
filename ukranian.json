@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "A. Router",
+        "B. Switch",
+        "C. Hub",
+        "D. Access Point"
+      ],
+      "correct": {
+        "index": 0,
+        "text": " Alasan : a). Router adalah sebuah hardware/alat yang befungsi untuk menghubungkan 2 jaringan atau lebih dengan segmen yang berbeda.."
+      },
+	   
+      "image": "",
+      "number": 1,
+      "prompt": "Alat yang berfungsi untuk menghubungkan 2 jaringan dengan segmen yang berbeda adalah.."
+    },
+	 {
+      "answers": [
+        "a. Penghubung antara 2 jaringan yang berbeda",
+        "b. Mengatur dan mengontrol lalu lintas jaringan",
+        "c. Penghubung antara 2 jaringan ke internet menggunakan 1 IP",
+        "d. Program yang melakukan request tehadap konten dari Internet/Intranet"
+      ],
+      "correct": {
+        "index": 1,
+        "text": " Alasan : b). Mengontrol dan mengatur lalu lintas jaringan merupakan salah satu fungsi dari Firewall."
+      },
+      "image": "",
+      "number": 2,
+      "prompt": "Berikut adalah fungsi dari Firewall, yaitu.."
+    },
+     {
+      "answers": [
+        "a. Network Layer",
+        "b. Data Link Layer",
+        "c. Transport Layer",
+        "d. Physical Layer"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Alasan : c).Transport Layer merupakan model yang berfungsi untuk menerima data Session Layer, memecah data menjadi bagian-bagian kecil, dan meneruskan data ke Network Layer."
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "Dalam Model OSI Layer, yang berfungsi untuk menerima data dari Session Layer adalah?"
+    },
+    {
+      "answers": [
+        "a. Topologi Bus",
+        "b. Topologi Ring",
+        "c. Topologi Tree",
+        "d. Topologi Star"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Alasan : d).Topologi Star atau bintang, pada topologi ini menggunakan switch yang berfungsi sebagai node tengah sekaligus pusatnya jaringan. Apabila switch ini mati/terganggu, maka jaringan tidak dapat berjalan."
+      },
+      "image": "",
+      "number": 4,
+      "prompt": " Jenis topologi yang memiliki node tengah sebagai pusat penghubung dari suatu jaringan adalah topologi.."
+    },
+   {
+      "answers": [
+        "a. Firmware",
+        "b. Brainware",
+        "c. Hardware",
+        "d. Software"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Alasan : a).Firmware merupakan sebuah program yang ada pada sebuah computer dengan fungsi sebagai penerjemah bahasa computer."
+      },
+      "image": "",
+      "number": 5,
+      "prompt": "Software yang ditanam pada sebuah computer untuk menerjemahkan bahasa computer merupakan pengertian dari.."
+    }
+  ],
+  "title": "Ujian Sertifikasi",
+  "url": ""
+}
